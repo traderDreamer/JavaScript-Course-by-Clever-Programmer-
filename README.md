@@ -3,6 +3,9 @@ This is a full JavaScript course by Clever Programmer
 https://www.youtube.com/watch?v=lI1ae4REbFM
 https://replit.com/@AWSTest/FORK-THIS-JavaScript-Course-by-Clever-Programmer#yourPlayground.js
 
+https://FORK-THIS-JavaScript-Course-by-Clever-Programmer-1.awstest.repl.co
+
+
 Sign up for our talent pool 👉 https://airtable.com/shrv5Zju3U2CX8BLF
 👨💻 FORK THIS REPL 👉 https://join.replit.com/cp-javascript
 📚 GET THE FREE COURSE 👉 https://cleverprogrammer.com/js-tutor...
